@@ -1,4 +1,4 @@
-# GRIDZILLA 1.2.1
+# GRIDZILLA
 
 
 ## A monster in your machine.
