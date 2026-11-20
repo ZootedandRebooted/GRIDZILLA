@@ -7,22 +7,28 @@
 GRIDZILLA expands the MPC Sample with virtual instruments, editable MIDI, a song arranger, a live mixer and effect automation. It runs from SD without flashing Akai firmware.
 
 
-**[Download GRIDZILLA 1.2.1](https://zootedandrebooted.github.io/GRIDZILLA/)**
+**[Download GRIDZILLA 1.2.9](https://github.com/ZootedandRebooted/GRIDZILLA/releases/download/GRIDZILLA/GRIDZILLA.zip)**
 
 
-[GitHub release](https://github.com/ZootedandRebooted/GRIDZILLA/releases/tag/v1.2.1)
+[GitHub release](https://github.com/ZootedandRebooted/GRIDZILLA/releases/tag/GRIDZILLA)
 
 
-## Fixed in 1.2.1
+## Fixed in 1.2.9
 
-Instruments now load from the bundled engine on any SD card name, without development files. Older saved instrument and mixing-effect paths are supported.
+- Melodic mode displays recorded notes at their actual pitches immediately, without pressing Transpose.
+- Removed the stopped-state “STOP” text from the Arranger bar.
+- Includes the existing Transpose and Arranger improvements.
+
+Verified on the MPC Sample, including startup and preservation of the current session.
+
+This repository distributes the end-user installation package, documentation, and media. Gridzilla implementation source and development files are not included.
 
 ## What’s included
 
 
-- **GRIDZILLA-1.2.1.zip** — the `autorun` and `WaveGrid` installation folders, PDF guide and video.
-- **GRIDZILLA-1.2-User-Guide.pdf** — a 23-page illustrated walkthrough covering installation, controls, recording, editing, arranging, mixing and automation.
-- **GRIDZILLA-1.2-Video.mov** — the video walkthrough.
+- **GRIDZILLA.zip** — the `autorun` and `WaveGrid` installation folders, PDF guide and video.
+- **GRIDZILLA-User-Guide.pdf** — a 23-page illustrated walkthrough covering installation, controls, recording, editing, arranging, mixing and automation.
+- **GRIDZILLA-Video.mov** — the video walkthrough.
 
 
 ## Make the whole track
